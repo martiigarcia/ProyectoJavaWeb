@@ -1,0 +1,7 @@
+PREGUNTAS:
+- como hacer para que funcione el proyecto con js desactivado del navegador
+- no puedo agregar el driver de mysql a la carpeta lib
+- porque no me deja ejecutar desde la raiz del programa
+- no funciona ningun jsp
+- no me funciona el driver
+- 
